@@ -1,5 +1,5 @@
 import "./style.css";
-import fetchCurrentWeather from "./src/utils/fetchCurrentWeather";
+import fetchCurrentWeather from "./src/fetchCurrentWeather";
 import appendWeather from "./src/appendWeather";
 
 const searchWeatherBtn = document.getElementById("search-weather-btn");
